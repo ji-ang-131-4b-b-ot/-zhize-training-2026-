@@ -9,7 +9,7 @@ root = Path(__file__).resolve().parents[2]
 skip = {".git", ".venv", "__pycache__"}
 
 # 图片文件的扩展名
-image_exts = {".png", ".jpg", ".jpeg", ".gif", ".bmp", ".webp"}
+image_exts = {".png", ".jpg", ".jpeg", ".gif", ".bmp", ".webp",".svg"}
 
 # 初始化计数器
 total = 0
